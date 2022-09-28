@@ -1,6 +1,6 @@
 # Energy-Generation-Consumption-and-Weather-Visualization-for-Spain
 
-This is a visualization project done on the energy and weather of five cities in Spain namely Barcelona, Bilbao, Madrid, Seville, and Valencia using **Python Pandas** library to preprocess the data and **Python Matplotlib** library to tell stories by visuals. A 2014 to 2018 dataset obtained from [Kaggle](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=weather_features.csv) was used.
+This is a visualization project done on the energy and weather of five cities in Spain namely Barcelona, Bilbao, Madrid, Seville, and Valencia using **Python Pandas** library to preprocess the data and **Python Matplotlib** library for storytelling to understand energy consumption and generation as well as trends in weather. A 2014 to 2018 dataset obtained from [Kaggle](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=weather_features.csv) was used.
 
 The tasks worked on were as follows:
 
